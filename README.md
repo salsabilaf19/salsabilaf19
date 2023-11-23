@@ -27,9 +27,6 @@
 <br />
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/salsabilaf19/salsabilaf19)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/salsabilaf19)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/salsabilaf19)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/salsabilaf19)](https://badges.pufler.dev)
-
-
 ## 🧰 Languages and Tools:
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -55,6 +52,8 @@
 
 ## ❤️ Statistics :
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=salsabilaf19&theme=algolia&show_icons=true)](https://github.com/salsabilaf19)
+
+[![Visits Badge](https://badges.pufler.dev/visits/salsabilaf19/salsabilaf19)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/salsabilaf19)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/salsabilaf19)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/salsabilaf19)](https://badges.pufler.dev)
 
 Let's be friends ! ^^
 
