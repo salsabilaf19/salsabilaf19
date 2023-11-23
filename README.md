@@ -6,15 +6,13 @@
 Let's be friends ! ^^
 
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Salsabila</a></b>
+        <samp>&gt; Hey There!
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 I am a Software Engineer from <b>Indonesia</b> 」
     <br>
