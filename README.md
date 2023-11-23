@@ -13,8 +13,6 @@
   </samp>
 </p>
 
-![snake animation](https://github.com/salsabilaf19/salsabilaf19/blob/output/github-contribution-grid-snake2.svg)
-
 <div align="center">
   <a href="https://github.com/salsabilaf19/portofolio">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
