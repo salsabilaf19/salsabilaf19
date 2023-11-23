@@ -4,3 +4,6 @@
 - 📫 How to reach me salsabilafitriyah76@gmail.com on GMAIL & @salsabilifee on Instagram
 
 Let's be friends ! ^^
+
+
+![Visitor Count](https://profile-counter.glitch.me/salsabilaf9/count.svg)
