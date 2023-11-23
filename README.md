@@ -8,7 +8,8 @@ Let's be friends ! ^^
 [![Visits Badge](https://badges.pufler.dev/visits/salsabilaf19/salsabilaf19)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/salsabilaf19)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/salsabilaf19)](https://badges.pufler.dev)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salsabilaf19&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salsabilaf19&hide=javascript,css,scss,html&theme=tokyonight)
+
 
 
 
