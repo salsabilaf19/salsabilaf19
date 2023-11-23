@@ -13,6 +13,11 @@
   </samp>
 </p>
 
+<div align="center">
+  <img  src="https://github.com/salsabilaf19/salsabilaf19/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <p align="center">
  <a href="https://medium.com/@salsabilafitriyah76" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="salsabilaf19" />
