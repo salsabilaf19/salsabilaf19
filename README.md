@@ -6,4 +6,4 @@
 Let's be friends ! ^^
 
 
-https://badges.pufler.dev/visits/salsabilaf19/README.md
+[![Visits Badge](https://github.com/salsabilaf19/visits/salsabilaf19/badge-it)](https://github.com/salsabilaf19/)
