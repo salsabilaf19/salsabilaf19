@@ -23,6 +23,6 @@ Let's be friends ! ^^
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=salsabilaf19&theme=algolia&show_icons=true)](https://github.com/salsabilaf19) [![Salsabila's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=salsabilaf19&hide=php,html,javascript&theme=algolia&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=salsabilaf19&theme=algolia&show_icons=true)](https://github.com/salsabilaf19)
 
 
