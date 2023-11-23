@@ -45,7 +45,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## ❤️ Statistics :
+## :rocket: Statistics :
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=salsabilaf19&theme=algolia&show_icons=true)](https://github.com/salsabilaf19)
 
 [![Visits Badge](https://badges.pufler.dev/visits/salsabilaf19/salsabilaf19)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/salsabilaf19)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/salsabilaf19)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/salsabilaf19)](https://badges.pufler.dev)
