@@ -46,6 +46,7 @@
 
 ## :rocket: Statistics :
 [![Salsabila's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=salsabilaf19&hide=html,scss,blade,python,css,shell&theme=algolia&show_icons=true)](https://github.com/salsabilaf19)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=salsabilaf19&theme=algolia&show_icons=true)](https://github.com/salsabilaf19)  
 ![Salsabila's Graph](https://github-readme-activity-graph.vercel.app/graph?username=salsabilaf19&custom_title=Salsabila%20Fithriyah's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salsabilaf19&theme=onedark" alt="salsabilaf19" /></a> </p>
