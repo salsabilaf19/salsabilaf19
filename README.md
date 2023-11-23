@@ -1,5 +1,5 @@
 <h3 align="center">
-        <samp>&gt; Hey There!, My Name is Salsabila Fithriyah
+        <samp>&gt; :alien: Hey There!, My Name is Salsabila Fithriyah
         </samp>
 </h3>
 
