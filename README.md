@@ -5,7 +5,7 @@
 
 Let's be friends ! ^^
 
-[![Visits Badge](https://badges.pufler.dev/visits/salsabilaf19/salsabilaf19)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/salsabilaf19)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/salsabilaf19/salsabilaf19)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/salsabilaf19)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/salsabilaf19)](https://badges.pufler.dev)
 
 
 
