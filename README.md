@@ -6,4 +6,4 @@
 Let's be friends ! ^^
 
 
-[![Visits Badge](https://github.com/salsabilaf19/visits/salsabilaf19/badge-it)](https://github.com/salsabilaf19/)
+[![Visits Badge](https://github.com/salsabilaf19/badge-it)]
