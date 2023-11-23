@@ -14,7 +14,7 @@ Let's be friends ! ^^
 <p align="center"> 
   <samp>
     <br>
-    「 Currently, I'ma Software Engineer from <b>Indonesia</b> 」
+    「 Currently, I'm a Software Engineer from <b>Indonesia</b> 」
     <br>
     <br>
   </samp>
