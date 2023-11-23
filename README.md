@@ -6,4 +6,4 @@
 Let's be friends ! ^^
 
 
-![Visitor Count](https://profile-counter.glitch.me/salsabilaf9/count.svg)
+https://badges.pufler.dev/visits/salsabilaf19/README.md
