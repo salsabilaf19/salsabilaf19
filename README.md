@@ -14,9 +14,10 @@
 </p>
 
 <div align="center">
-  <img  src="https://github.com/salsabilaf19/salsabilaf19/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
 
 <p align="center">
  <a href="https://medium.com/@salsabilafitriyah76" target="blank">
