@@ -46,7 +46,7 @@
 
 
 ## :rocket: Statistics :
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=salsabilaf19&theme=algolia&show_icons=true)](https://github.com/salsabilaf19)<a href="https://github.com/alsiam"><img alt="Salsabila's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=salsabilaf19&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=salsabilaf19&theme=algolia&show_icons=true)](https://github.com/salsabilaf19)
 ![Salsabila's Graph](https://github-readme-activity-graph.vercel.app/graph?username=salsabilaf19&custom_title=Salsabila%20Fithriyah's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 [![Visits Badge](https://badges.pufler.dev/visits/salsabilaf19/salsabilaf19)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/salsabilaf19)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/salsabilaf19)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/salsabilaf19)](https://badges.pufler.dev)
