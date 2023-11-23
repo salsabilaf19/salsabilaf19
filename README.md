@@ -8,5 +8,7 @@ Let's be friends ! ^^
 
 [![Visits Badge](https://badges.pufler.dev/visits/salsabilaf19/salsabilaf19)](https://badges.pufler.dev) 
 
+![snake animation](https://github.com/salsabilaf19/salsabilaf19/blob/output/github-contribution-grid-snake2.svg)
+
 
 
