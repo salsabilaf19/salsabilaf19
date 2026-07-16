@@ -15,7 +15,7 @@
 
 
 <p align="center">
- <a href="https://medium.com/@salsabilafitriyah76" target="blank">
+ <a href="https://medium.com/@salsabilifee" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="salsabilaf19" />
  </a>
  <a href="https://www.linkedin.com/in/salsabila-fithriyah-7860881a8/" target="_blank">
